@@ -4,7 +4,10 @@ A simple and sleek frontend built with **Vite + React**, using **Material UI** a
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshots/email-writer-ui.png)
+<p align="center">
+  <img src="./screenshots/email-writer-ui.png" alt="Email Writer UI" width="700"/>
+</p>
+
 
 ## 🚀 Features
 
